@@ -18,8 +18,7 @@ The measurement conditions for the collected data are the following three method
 
 I have added the correct 3D joint positions to the SLPDataset.
 
-![Test Image 1](image/3djoint.png)
+![Test Image 1](3djoint.png)
 
 To Do
-
-[] The correct 3D joint positions assigned to the SLPdataset are made public.
+- [ ] The correct 3D joint positions assigned to the SLPdataset are made public.
