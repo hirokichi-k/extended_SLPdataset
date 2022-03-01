@@ -21,4 +21,4 @@ I have added the correct 3D joint positions to the SLPDataset.
 ![annotate sample 3d joint](3djoint.png)
 
 To Do
-- [-] The correct 3D joint positions assigned to the SLPdataset are made public.
+- [x] The correct 3D joint positions assigned to the SLPdataset are made public.
